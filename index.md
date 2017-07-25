@@ -1,4 +1,4 @@
-## Welcome to [Yuxin Chen](www.princeton.edu/~yc5)'s Github
+## Welcome to [Yuxin Chen](http://www.princeton.edu/~yc5)'s Github
 
 You can use the [editor on GitHub](https://github.com/chenyx04/chenyx04.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
